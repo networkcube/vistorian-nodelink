@@ -53,7 +53,7 @@
         "moment": "^2.23.0",
         "nodemon": "^2.0.3",
         "papaparse": "^5.0.0",
-        "three": "^0.100.0",
+        "three": "^0.125.0",
         "vistorian-core": "latest"
     }
 }
